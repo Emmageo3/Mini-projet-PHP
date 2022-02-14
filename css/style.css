@@ -1,0 +1,12 @@
+.cartes{
+    display: flex;
+}
+
+.card{
+    margin: 2rem;
+}
+
+.card a{
+    color: black;
+    font-size: 2rem;
+}
